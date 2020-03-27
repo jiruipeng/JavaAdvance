@@ -1,4 +1,4 @@
-package demo04.MyException;
+package demo04.Reader.MyException;
 /*
     自定义异常类：
         java提供的异常类，不够我们使用，需要自己定义一些异常类

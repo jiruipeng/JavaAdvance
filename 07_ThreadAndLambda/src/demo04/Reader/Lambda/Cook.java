@@ -1,4 +1,4 @@
-package demo04.Lambda;
+package demo04.Reader.Lambda;
 /*
     定一个厨子Cook接口，内含唯一的抽象方法makeFood
  */

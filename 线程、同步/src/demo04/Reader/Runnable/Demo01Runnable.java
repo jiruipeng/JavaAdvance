@@ -1,4 +1,4 @@
-package demo04.Runnable;
+package demo04.Reader.Runnable;
 /*
     创建多线程程序的第二种方式：实现Runnable接口
     java.lang.Runnable

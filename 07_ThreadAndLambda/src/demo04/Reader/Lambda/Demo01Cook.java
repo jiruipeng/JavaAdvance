@@ -1,4 +1,4 @@
-package demo04.Lambda;
+package demo04.Reader.Lambda;
 /*
     需求:
         给定一个厨子Cook接口，内含唯一的抽象方法makeFood，且无参数、无返回值。
